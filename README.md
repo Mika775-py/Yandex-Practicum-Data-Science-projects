@@ -15,3 +15,4 @@
 | 11 | [Прогноз количества заказов такси](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/776b8402fff6cc77fdd7df89d529e859b40a9150/11%20Numbers%20of%20taxi%20orders%20forecast) | селл 17 | рррр |
 | 12 | [Поиск токсичных комментариев](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/10b4ffddbc2859f1cd88fbab73085da9239e4536/12%20Toxic%20comments%20search) | селл 18 | оооо |
 | 13 | [Определение возраста покупателей](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/98e66ca3c562658490df39f476f449b94bfae8ec/13%20Clients%20age%20determination) | селл 19 | лллл |
+| 14 | [Оптимизация производственных расходов](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/f1cdfa3689282878c6b7db8a7c12ba49b21fc762/14%20Production%20costs%20optimization) | селл 20 | ммм |
