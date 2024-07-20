@@ -1,4 +1,4 @@
-## Здесь собраны некоторые реализованные проекты
+|## Здесь собраны некоторые реализованные проекты
 
 | # | Наименование проекта | Описание | Стек |
 |----------|----------|----------|----------|
@@ -11,3 +11,4 @@
 | 7 | [Прогноз снижения активности покупателей](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/6bdc09012d2ac9f2542ac8e2422069d728227d4c/07%20Forecast%20of%20consumers%20activity%20decrease) | Cell 13 | ddddd |
 | 8 | [Прогноз увольнения сотрудников](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/b94f7d4b1993f2670b6694bde3f8d14e7b87b53e/08%20Employee%20firing%20forecast) | Cell 14 | fffff |
 | 9 | [Выбор локации для скважины](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/8113b5d25bfddf556db3f7b9b6eb2474e71f6d3b/09%20Choosing%20the%20well%20location) | Cell 15 | gggg |
+| 10 | [Определение стоимости автомобиля]() | селл 16 | пппп | 
