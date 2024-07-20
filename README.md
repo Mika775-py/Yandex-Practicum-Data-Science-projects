@@ -14,3 +14,4 @@
 | 10 | [Определение стоимости автомобиля](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/cef9a637405bbe0877012bda79341a0c084a6b31/10%20Car%20value%20determination) | селл 16 | пппп | 
 | 11 | [Прогноз количества заказов такси](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/776b8402fff6cc77fdd7df89d529e859b40a9150/11%20Numbers%20of%20taxi%20orders%20forecast) | селл 17 | рррр |
 | 12 | [Поиск токсичных комментариев](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/10b4ffddbc2859f1cd88fbab73085da9239e4536/12%20Toxic%20comments%20search) | селл 18 | оооо |
+| 13 | [Определение возраста покупателей](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/98e66ca3c562658490df39f476f449b94bfae8ec/13%20Clients%20age%20determination) | селл 19 | лллл |
