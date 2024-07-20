@@ -12,3 +12,4 @@
 | 8 | [Прогноз увольнения сотрудников](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/b94f7d4b1993f2670b6694bde3f8d14e7b87b53e/08%20Employee%20firing%20forecast) | Cell 14 | fffff |
 | 9 | [Выбор локации для скважины](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/8113b5d25bfddf556db3f7b9b6eb2474e71f6d3b/09%20Choosing%20the%20well%20location) | Cell 15 | gggg |
 | 10 | [Определение стоимости автомобиля](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/cef9a637405bbe0877012bda79341a0c084a6b31/10%20Car%20value%20determination) | селл 16 | пппп | 
+| 11 | [Прогноз количества заказов такси](https://github.com/Mika775-py/Yandex-Practicum-Data-Science-projects/tree/776b8402fff6cc77fdd7df89d529e859b40a9150/11%20Numbers%20of%20taxi%20orders%20forecast) | селл 17 | рррр |
